@@ -14,5 +14,5 @@ def test_calculate_area_square_list():
         calculate_area_square([2])
 
 def test_calculate_area_square_valid():
-    assert calculate_area_square(92) == 8000  # Incorrect value to force failure
+    assert calculate_area_square(92) == 8464  # Incorrect value to force failure
 
